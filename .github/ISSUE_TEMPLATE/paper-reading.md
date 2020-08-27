@@ -1,9 +1,9 @@
 ---
 name: paper-reading
-about: Create a report to help us improve
+about: for paper
 title: ''
 labels: ''
-assignees: ''
+assignees: Sosuke115
 
 ---
 

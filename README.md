@@ -24,5 +24,5 @@
 
 # label
 
-- Knowledge Distillation
+- [Knowledge Distillation](https://github.com/Sosuke115/paper-reading/issues?q=is%3Aissue+is%3Aopen+label%3A%22Knowledge+Distillation%22)
 - Adversarial Example

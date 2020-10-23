@@ -11,19 +11,6 @@
 Contribution大歓迎です！！
 
 
-
-# format
-
-[落合陽一先生の論文の読み方](https://www.slideshare.net/Ochyai/1-ftma15/)を参考に以下のフォーマットでまとめていきます。
-
-- 論文リンク
-- 概要
-- 先行研究との差異
-- 手法のキモ
-- 評価方法
-- 議論
-- 関連論文
-
 # label
 
 - [Conputer Vision](https://github.com/Sosuke115/paper-reading/issues?q=is%3Aissue+is%3Aopen+label%3A%22Computer+Vision%22)

@@ -10,6 +10,8 @@
 
 Contribution大歓迎です！！
 
+3/29 Notionでの管理に移行しました。
+
 
 # label
 
